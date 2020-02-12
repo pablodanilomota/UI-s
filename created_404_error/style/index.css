@@ -83,7 +83,7 @@ button:hover {
   cursor: pointer;
 }
 
-@media (max-height: 800px){
+@media (max-height: 900px){
    .menu {
     margin: 40px 40px 0px 40px;
     font-size: 20px;
