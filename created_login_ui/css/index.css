@@ -86,7 +86,7 @@ body{
   width: 80px;
   height: 80px;
   margin-right: 5px;
-  margin-left: -30px;
+  cursor: pointer;
 }
 
 .input {
@@ -97,9 +97,12 @@ body{
 
 .input input {
   width: 417px;
-  height: 47px;
+  height: 30px;
   border-radius: 24px;
   border: 1px solid #9b9b9b;
+  font-size: 16px;
+  outline: none;
+  padding: 10px;
 }
 
 /** */
@@ -201,5 +204,6 @@ body{
   border-radius: 33px;
   filter: drop-shadow(0px 12px 7px rgba(98,92,255,0.1));
   background-color: #613aee;
+  outline: none;
 }
 
