@@ -207,3 +207,9 @@ body{
   outline: none;
 }
 
+.button:hover {
+  background-color: #5b57cd;
+  color: #fff;
+  border: #5b57cd solid 1px;
+}
+
